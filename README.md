@@ -4,8 +4,8 @@
 This project demonstrates API testing using RestAssured, Cucumber, and Java for a mock API.
 
 ## Prerequisites
-Java 17
-Maven
+Java 17 \
+Maven \
 Git
 
 ## Running Tests
@@ -20,5 +20,5 @@ mvn clean test
 ```
 
 ## Test cases
-·Update Phone Number of First Client Named Laura
+·Update Phone Number of First Client Named Laura \
 ·Create, Update, and Delete a New Client
